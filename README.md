@@ -1,16 +1,13 @@
-## Hi there 👋
+## Projects
 
-<!--
-**gankaili88/gankaili88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Audit Analytics Portfolio]**
 
-Here are some ideas to get you started:
+- **[SkyWorld Financial Ratios Dashboard](https://github.com/gankaili88/skyworld-financial-ratios-dashboard)** — 
+  5-page Power BI dashboard analysing a Bursa Malaysia–listed property developer 
+  with an ISA 520 analytical-review risk-flag matrix. 30+ DAX measures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Audit AI Prompts](https://github.com/gankaili88/audit-ai-prompts)** — 
+  A working library of prompts for AI-assisted external audit work, 
+  with verification logs and refinement history.
+
+*More projects in progress.*
